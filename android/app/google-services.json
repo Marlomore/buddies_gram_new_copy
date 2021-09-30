@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "284495666495",
+    "project_id": "buddies-gram-new-copy",
+    "storage_bucket": "buddies-gram-new-copy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284495666495:android:ffea19f55f908af636478a",
+        "android_client_info": {
+          "package_name": "com.example.buddies_gram_new_copy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284495666495-19ah270e2hvk8c6us0iige7n6qt6ddfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buddies_gram_new_copy",
+            "certificate_hash": "ba92ae1ffb8cb2eba69b9817ad51bd369bea8b32"
+          }
+        },
+        {
+          "client_id": "284495666495-slfdpbl6co69306cd1622gmfrn3nr178.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcuIfVgkOo2u5IxtJsP8DBC9x86hehn88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284495666495-slfdpbl6co69306cd1622gmfrn3nr178.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
